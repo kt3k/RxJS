@@ -28,7 +28,7 @@
     "grunt": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-connect": "*",
-    "grunt-contrib-uglify": "*",
+    "grunt-contrib-uglify": ">=3.0.0",
     "grunt-contrib-concat": "*",
     "grunt-contrib-qunit": "*",
     "grunt-contrib-watch": "*",
